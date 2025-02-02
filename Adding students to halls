@@ -1,0 +1,2 @@
+ manager.assign_student(Student("John Doe", "101", "Hall A"))
+    manager.assign_student(Student("Jane Smith", "102", "Hall B"))
