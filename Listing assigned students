@@ -1,0 +1,6 @@
+print("Exam Hall Assignments:")
+    for student in manager.get_all_students():
+        print(student)
+    
+if __name__ == "__main__":
+    main()
